@@ -1,0 +1,61 @@
+{
+  "name": "simple-nodejs-chat",
+  "version": "2.1.5",
+  "description": "nodejs chat app",
+  "main": "server.js",
+  "keywords": [
+    "chat",
+    "Node.js",
+    "application",
+    "npm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimHub/responsive_nodejs_chat.git"
+  },
+  "author": {
+    "name": "SimHub",
+    "email": "simhub.dev@gmail.com"
+  },
+  "engines": {
+    "node": ">= 5.5.0",
+    "npm": ">= 3.3.12"
+  },
+  "devDependencies": {
+    "express": "~3.4.4",
+    "socket.io": "^1.4.5",
+    "mongodb": "~2.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "bugs": {
+    "url": "https://github.com/SimHub/responsive_nodejs_chat/issues"
+  },
+  "homepage": "https://github.com/SimHub/responsive_nodejs_chat#readme",
+  "_id": "simple-nodejs-chat@2.1.5",
+  "_shasum": "43fe89051fcd4142743debb400019a3b477cc035",
+  "_from": "simple-nodejs-chat@latest",
+  "_npmVersion": "3.3.12",
+  "_nodeVersion": "5.5.0",
+  "_npmUser": {
+    "name": "simhub",
+    "email": "lackmann.simon@gmail.com"
+  },
+  "dist": {
+    "shasum": "43fe89051fcd4142743debb400019a3b477cc035",
+    "tarball": "https://registry.npmjs.org/simple-nodejs-chat/-/simple-nodejs-chat-2.1.5.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "simhub",
+      "email": "lackmann.simon@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-9-west.internal.npmjs.com",
+    "tmp": "tmp/simple-nodejs-chat-2.1.5.tgz_1456484686467_0.9313855750951916"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/simple-nodejs-chat/-/simple-nodejs-chat-2.1.5.tgz"
+}
